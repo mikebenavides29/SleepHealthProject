@@ -1,2 +1,2 @@
 # SleepHealthProject
-Analyzed SleepHealth Dataset to demonstrate SQL knowledge
+Analyzed SleepHealth Dataset to demonstrate SQL competence
